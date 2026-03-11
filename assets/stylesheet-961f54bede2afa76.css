@@ -1,0 +1,42 @@
+:root {
+--gp-font--birthstone: "Birthstone";
+--gp-font--antonio: "Antonio";
+: "Oxygen";
+--gp-font--abeezee: "ABeeZee";
+}
+
+@font-face {
+	font-display: swap;
+	font-family: "Birthstone";
+	font-style: normal;
+	font-weight: 400;
+	src: url('https://thelionlocks.com/wp-content/uploads/generatepress/fonts/birthstone/8AtsGs2xO4yLRhy87sv_LL7zjA.woff2') format('woff2');
+}
+@font-face {
+	font-display: swap;
+	font-family: "Antonio";
+	font-style: normal;
+	font-weight: 100 700;
+	src: url('https://thelionlocks.com/wp-content/uploads/generatepress/fonts/antonio/gNMEW3NwSYq_9WD3yHQiFQ.woff2') format('woff2');
+}
+@font-face {
+	font-display: ;
+	font-family: "Oxygen";
+	font-style: normal;
+	font-weight: 400;
+	src: url('https://sites.generatepress.com/restaurant/wp-content/uploads/sites/163/generatepress/fonts/oxygen/2sDfZG1Wl4LcnbuKjk0m.woff2') format('woff2');
+}
+@font-face {
+	font-display: ;
+	font-family: "Oxygen";
+	font-style: normal;
+	font-weight: 700;
+	src: url('https://sites.generatepress.com/restaurant/wp-content/uploads/sites/163/generatepress/fonts/oxygen/2sDcZG1Wl4LcnbuCNWgzaGW5.woff2') format('woff2');
+}
+@font-face {
+	font-display: auto;
+	font-family: "ABeeZee";
+	font-style: normal;
+	font-weight: 400;
+	src: url('https://thelionlocks.com/wp-content/uploads/generatepress/fonts/abeezee/esDR31xSG-6AGleN2tWkkA.woff2') format('woff2');
+}
