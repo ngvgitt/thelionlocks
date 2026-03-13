@@ -65,4 +65,4 @@ Allow: /wp-content/plugins/*.css
 Allow: /wp-content/plugins/*.js
 Allow: /*.css
 Allow: /*.js
-Sitemap: https://thelionlocks.ngvamz.workers.dev/page-sitemap.xml
+Sitemap: https:https://thelionlocks.com/page-sitemap.xml
