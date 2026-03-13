@@ -25,10 +25,6 @@
 
 # BEGIN Cloudflare Managed content
 
-User-agent: *
-Content-Signal: search=yes,ai-train=no
-Allow: /
-
 User-agent: Amazonbot
 Disallow: /
 
@@ -56,18 +52,17 @@ Disallow: /
 # END Cloudflare Managed Content
 
 User-agent: *
+Allow: /
 Disallow: /wp-admin/
 Disallow: /wp-includes/
 Disallow: /wp-content/plugins/
 Disallow: /wp-content/cache/
 Disallow: /xmlrpc.php
 Disallow: /readme.html
-
 Allow: /wp-includes/*.css
 Allow: /wp-includes/*.js
 Allow: /wp-content/plugins/*.css
 Allow: /wp-content/plugins/*.js
 Allow: /*.css
 Allow: /*.js
-
 Sitemap: https://thelionlocks.ngvamz.workers.dev/page-sitemap.xml
